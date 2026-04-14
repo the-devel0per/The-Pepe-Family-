@@ -19,7 +19,7 @@ export default function Footer() {
             𝕏 TWITTER
           </a>
           <span className="text-pepe-green opacity-40">|</span>
-          <a href="https://pump.fun" target="_blank" rel="noopener noreferrer"
+          <a href="https://trade.padre.gg/trade/solana/2h9jh56pUxzV2ew2hwBdHiCkJcyDWCkNesmF6acQpvdW" target="_blank" rel="noopener noreferrer"
             className="font-meme text-lg text-pepe-orange hover:text-pepe-lime transition-colors">
             🚀 PUMP.FUN
           </a>
