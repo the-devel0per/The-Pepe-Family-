@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const CONTRACT_ADDRESS = 'pumpfun'
+const CONTRACT_ADDRESS = '9i25T5ArKqkLZFz8N5CTLsaczQg9gjqyXWYDLEmPpump'
 
 export default function Navbar() {
   const [copied, setCopied] = useState(false)
@@ -54,11 +54,11 @@ export default function Navbar() {
 
         {/* Social Links */}
         <div className="flex items-center gap-2">
-          <a href="https://x.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://x.com/i/communities/1991089403926823069" target="_blank" rel="noopener noreferrer"
             className="bg-black border-2 border-white text-white font-meme text-sm px-3 py-1 rounded-lg hover:bg-white hover:text-black transition-all duration-200 flex items-center gap-1">
             <span>𝕏</span>
           </a>
-          <a href="https://pump.fun" target="_blank" rel="noopener noreferrer"
+          <a href="https://trade.padre.gg/trade/solana/2h9jh56pUxzV2ew2hwBdHiCkJcyDWCkNesmF6acQpvdW" target="_blank" rel="noopener noreferrer"
             className="bg-pepe-orange text-white font-meme text-sm px-3 py-1 rounded-lg hover:opacity-80 transition-all duration-200 flex items-center gap-1">
             🚀 PUMP
           </a>
