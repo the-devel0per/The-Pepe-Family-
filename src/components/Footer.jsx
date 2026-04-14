@@ -14,7 +14,7 @@ export default function Footer() {
         </p>
 
         <div className="flex justify-center gap-6 mb-6">
-          <a href="https://x.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://x.com/i/communities/1991089403926823069" target="_blank" rel="noopener noreferrer"
             className="font-meme text-lg text-white hover:text-pepe-lime transition-colors">
             𝕏 TWITTER
           </a>
@@ -24,7 +24,7 @@ export default function Footer() {
             🚀 PUMP.FUN
           </a>
           <span className="text-pepe-green opacity-40">|</span>
-          <a href="https://t.me" target="_blank" rel="noopener noreferrer"
+          <a href="https://t.me/+O2zWzPWfhNIyMzQ1" target="_blank" rel="noopener noreferrer"
             className="font-meme text-lg text-pepe-blue hover:text-pepe-lime transition-colors">
             ✈️ TELEGRAM
           </a>

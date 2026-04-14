@@ -16,7 +16,7 @@ const SLIDES = [
     bg: 'from-pink-900 via-rose-800 to-pink-900',
     emoji: '🐸💄',
     caption: 'slay queen slay',
-    // image: '/images/peepa.png'
+     image: '/images/2.png'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const SLIDES = [
     bg: 'from-yellow-900 via-amber-800 to-yellow-900',
     emoji: '🐸🐸🐸🐸🐸🐸',
     caption: 'family > everything',
-    // image: '/images/family.png'
+    image: '/images/3.png'
   },
 ]
 
